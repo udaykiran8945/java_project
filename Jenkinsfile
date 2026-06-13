@@ -20,7 +20,7 @@ pipeline{
             steps{
             gitCheckout(
                 branch: "main",
-                url: "https://github.com/udaykiran8945/jenkins_shared_lib.git"
+                url: "https://github.com/udaykiran8945/java_project.git"
             )
             }
         }
